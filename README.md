@@ -1,7 +1,7 @@
 # Elisa Battista
 
-Graduate in Financial Risk and Data Analysis from Sapienza University of Rome.  
-I’m passionate about quantitative finance, data analysis, and scientific computing.
+Graduate in Financial Risk and Data Analysis.
 
-This is where I share my projects and research explorations.  
-Curious mind, always learning — feel free to look around!
+Interested in mathematics, finance, and programming.
+
+This GitHub is where I share projects, experiments, and things I'm learning along the way.
